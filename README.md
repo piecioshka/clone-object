@@ -1,6 +1,6 @@
 # clone-object
 
-Different approaches to clone an object:
+Different approaches to clone an object in JavaScript:
 
 ```js
 function cloneWithObjectAssign(data) {
@@ -44,4 +44,4 @@ Report
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2023
+[The MIT License](https://piecioshka.mit-license.org) @ 2023
